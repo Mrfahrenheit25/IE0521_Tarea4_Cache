@@ -46,10 +46,13 @@ class cache:
         print("\tPolítica de Reemplazo:\t\t\t"+str(self.repl_policy))
 
     def print_stats(self):
-        # print("Resultados de la simulación")
-        # print("Total accesos: "+str(self.total_access))
-        # print("# Cantidad total de misses: "+str(self.total_misses))
+        print("Resultados de la simulación")
+        print("Total accesos: ")
+        print(self.total_access)
+        print("# Cantidad total de misses: ")
+        print(self.total_misses)
         miss_rate = (100.0*self.total_misses) / self.total_access
+        print("Missrate: ")
         print(str(miss_rate))
         
         
