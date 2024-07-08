@@ -1,0 +1,459 @@
+  Running L2 C=512 A=32 with trace 400.perlbench-41B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 235
+0.0235
+L2:
+Resultados de la simulación
+Total accesos: 235
+# Cantidad total de misses: 234
+99.57446808510639
+L3:
+Resultados de la simulación
+Total accesos: 234
+# Cantidad total de misses: 234
+100.0
+  Finished running L2 C=512 A=32 with trace 400.perlbench-41B.trace.txt \n
+  Running L2 C=512 A=32 with trace 429.mcf-184B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 107254
+10.7254
+L2:
+Resultados de la simulación
+Total accesos: 107254
+# Cantidad total de misses: 84940
+79.19518153169112
+L3:
+Resultados de la simulación
+Total accesos: 84940
+# Cantidad total de misses: 74226
+87.38639039321875
+  Finished running L2 C=512 A=32 with trace 429.mcf-184B.trace.txt \n
+  Running L2 C=512 A=32 with trace 444.namd-120B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 4368
+0.4368
+L2:
+Resultados de la simulación
+Total accesos: 4368
+# Cantidad total de misses: 991
+22.687728937728938
+L3:
+Resultados de la simulación
+Total accesos: 991
+# Cantidad total de misses: 991
+100.0
+  Finished running L2 C=512 A=32 with trace 444.namd-120B.trace.txt \n
+  Running L2 C=512 A=32 with trace 456.hmmer-191B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 4097
+0.4097
+L2:
+Resultados de la simulación
+Total accesos: 4097
+# Cantidad total de misses: 2748
+67.07346839150598
+L3:
+Resultados de la simulación
+Total accesos: 2748
+# Cantidad total de misses: 2748
+100.0
+  Finished running L2 C=512 A=32 with trace 456.hmmer-191B.trace.txt \n
+  Running L2 C=512 A=32 with trace 465.tonto-1769B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 28139
+2.8139
+L2:
+Resultados de la simulación
+Total accesos: 28139
+# Cantidad total de misses: 27933
+99.26791996872667
+L3:
+Resultados de la simulación
+Total accesos: 27933
+# Cantidad total de misses: 21933
+78.5200300719579
+  Finished running L2 C=512 A=32 with trace 465.tonto-1769B.trace.txt \n
+  Running L2 C=512 A=32 with trace 482.sphinx3-1100B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 11943
+1.1943
+L2:
+Resultados de la simulación
+Total accesos: 11943
+# Cantidad total de misses: 10094
+84.51812777359123
+L3:
+Resultados de la simulación
+Total accesos: 10094
+# Cantidad total de misses: 9791
+96.99821676243313
+  Finished running L2 C=512 A=32 with trace 482.sphinx3-1100B.trace.txt \n
+  Running L2 C=512 A=32 with trace 401.bzip2-226B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 18860
+1.886
+L2:
+Resultados de la simulación
+Total accesos: 18860
+# Cantidad total de misses: 2397
+12.709437963944858
+L3:
+Resultados de la simulación
+Total accesos: 2397
+# Cantidad total de misses: 2369
+98.83187317480184
+  Finished running L2 C=512 A=32 with trace 401.bzip2-226B.trace.txt \n
+  Running L2 C=512 A=32 with trace 433.milc-127B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 22083
+2.2083
+L2:
+Resultados de la simulación
+Total accesos: 22083
+# Cantidad total de misses: 22083
+100.0
+L3:
+Resultados de la simulación
+Total accesos: 22083
+# Cantidad total de misses: 22083
+100.0
+  Finished running L2 C=512 A=32 with trace 433.milc-127B.trace.txt \n
+  Running L2 C=512 A=32 with trace 445.gobmk-17B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 11407
+1.1407
+L2:
+Resultados de la simulación
+Total accesos: 11407
+# Cantidad total de misses: 1411
+12.369597615499254
+L3:
+Resultados de la simulación
+Total accesos: 1411
+# Cantidad total de misses: 1411
+100.0
+  Finished running L2 C=512 A=32 with trace 445.gobmk-17B.trace.txt \n
+  Running L2 C=512 A=32 with trace 458.sjeng-1088B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 6924
+0.6924
+L2:
+Resultados de la simulación
+Total accesos: 6924
+# Cantidad total de misses: 1195
+17.258809936452916
+L3:
+Resultados de la simulación
+Total accesos: 1195
+# Cantidad total de misses: 1195
+100.0
+  Finished running L2 C=512 A=32 with trace 458.sjeng-1088B.trace.txt \n
+  Running L2 C=512 A=32 with trace 470.lbm-1274B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 35867
+3.5867
+L2:
+Resultados de la simulación
+Total accesos: 35867
+# Cantidad total de misses: 22480
+62.675997434968075
+L3:
+Resultados de la simulación
+Total accesos: 22480
+# Cantidad total de misses: 22480
+100.0
+  Finished running L2 C=512 A=32 with trace 470.lbm-1274B.trace.txt \n
+  Running L2 C=512 A=32 with trace 483.xalancbmk-127B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 20642
+2.0642
+L2:
+Resultados de la simulación
+Total accesos: 20642
+# Cantidad total de misses: 20637
+99.97577754093595
+L3:
+Resultados de la simulación
+Total accesos: 20637
+# Cantidad total de misses: 20637
+100.0
+  Finished running L2 C=512 A=32 with trace 483.xalancbmk-127B.trace.txt \n
+  Running L2 C=512 A=32 with trace 403.gcc-16B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 21639
+2.1639
+L2:
+Resultados de la simulación
+Total accesos: 21639
+# Cantidad total de misses: 21357
+98.69679744905032
+L3:
+Resultados de la simulación
+Total accesos: 21357
+# Cantidad total de misses: 21347
+99.95317694432738
+  Finished running L2 C=512 A=32 with trace 403.gcc-16B.trace.txt \n
+  Running L2 C=512 A=32 with trace 435.gromacs-111B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 4248
+0.4248
+L2:
+Resultados de la simulación
+Total accesos: 4248
+# Cantidad total de misses: 2783
+65.51318267419963
+L3:
+Resultados de la simulación
+Total accesos: 2783
+# Cantidad total de misses: 2763
+99.28135106000718
+  Finished running L2 C=512 A=32 with trace 435.gromacs-111B.trace.txt \n
+  Running L2 C=512 A=32 with trace 450.soplex-247B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 67734
+6.7734
+L2:
+Resultados de la simulación
+Total accesos: 67734
+# Cantidad total de misses: 46572
+68.7571972716804
+L3:
+Resultados de la simulación
+Total accesos: 46572
+# Cantidad total de misses: 36662
+78.72111998625783
+  Finished running L2 C=512 A=32 with trace 450.soplex-247B.trace.txt \n
+  Running L2 C=512 A=32 with trace 459.GemsFDTD-1169B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 17978
+1.7978
+L2:
+Resultados de la simulación
+Total accesos: 17978
+# Cantidad total de misses: 17753
+98.74847035265324
+L3:
+Resultados de la simulación
+Total accesos: 17753
+# Cantidad total de misses: 17753
+100.0
+  Finished running L2 C=512 A=32 with trace 459.GemsFDTD-1169B.trace.txt \n
+  Running L2 C=512 A=32 with trace 471.omnetpp-188B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 27971
+2.7971
+L2:
+Resultados de la simulación
+Total accesos: 27971
+# Cantidad total de misses: 16544
+59.146973651281684
+L3:
+Resultados de la simulación
+Total accesos: 16544
+# Cantidad total de misses: 16447
+99.41368471953578
+  Finished running L2 C=512 A=32 with trace 471.omnetpp-188B.trace.txt \n
+  Running L2 C=512 A=32 with trace 410.bwaves-1963B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 16065
+1.6065
+L2:
+Resultados de la simulación
+Total accesos: 16065
+# Cantidad total de misses: 11471
+71.40367258014317
+L3:
+Resultados de la simulación
+Total accesos: 11471
+# Cantidad total de misses: 11464
+99.93897654955975
+  Finished running L2 C=512 A=32 with trace 410.bwaves-1963B.trace.txt \n
+  Running L2 C=512 A=32 with trace 436.cactusADM-1804B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 4344
+0.4344
+L2:
+Resultados de la simulación
+Total accesos: 4344
+# Cantidad total de misses: 2860
+65.83793738489871
+L3:
+Resultados de la simulación
+Total accesos: 2860
+# Cantidad total de misses: 2847
+99.54545454545455
+  Finished running L2 C=512 A=32 with trace 436.cactusADM-1804B.trace.txt \n
+  Running L2 C=512 A=32 with trace 453.povray-887B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 25001
+2.5001
+L2:
+Resultados de la simulación
+Total accesos: 25001
+# Cantidad total de misses: 1732
+6.927722891084357
+L3:
+Resultados de la simulación
+Total accesos: 1732
+# Cantidad total de misses: 1707
+98.55658198614319
+  Finished running L2 C=512 A=32 with trace 453.povray-887B.trace.txt \n
+  Running L2 C=512 A=32 with trace 462.libquantum-1343B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 17649
+1.7649
+L2:
+Resultados de la simulación
+Total accesos: 17649
+# Cantidad total de misses: 17649
+100.0
+L3:
+Resultados de la simulación
+Total accesos: 17649
+# Cantidad total de misses: 17649
+100.0
+  Finished running L2 C=512 A=32 with trace 462.libquantum-1343B.trace.txt \n
+  Running L2 C=512 A=32 with trace 473.astar-153B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 4449
+0.4449
+L2:
+Resultados de la simulación
+Total accesos: 4449
+# Cantidad total de misses: 2484
+55.832771409305465
+L3:
+Resultados de la simulación
+Total accesos: 2484
+# Cantidad total de misses: 2425
+97.62479871175523
+  Finished running L2 C=512 A=32 with trace 473.astar-153B.trace.txt \n
+  Running L2 C=512 A=32 with trace 416.gamess-875B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 11729
+1.1729
+L2:
+Resultados de la simulación
+Total accesos: 11729
+# Cantidad total de misses: 1049
+8.94364395941683
+L3:
+Resultados de la simulación
+Total accesos: 1049
+# Cantidad total de misses: 1049
+100.0
+  Finished running L2 C=512 A=32 with trace 416.gamess-875B.trace.txt \n
+  Running L2 C=512 A=32 with trace 437.leslie3d-134B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 3968
+0.3968
+L2:
+Resultados de la simulación
+Total accesos: 3968
+# Cantidad total de misses: 3968
+100.0
+L3:
+Resultados de la simulación
+Total accesos: 3968
+# Cantidad total de misses: 3968
+100.0
+  Finished running L2 C=512 A=32 with trace 437.leslie3d-134B.trace.txt \n
+  Running L2 C=512 A=32 with trace 454.calculix-104B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 420
+0.042
+L2:
+Resultados de la simulación
+Total accesos: 420
+# Cantidad total de misses: 418
+99.52380952380952
+L3:
+Resultados de la simulación
+Total accesos: 418
+# Cantidad total de misses: 418
+100.0
+  Finished running L2 C=512 A=32 with trace 454.calculix-104B.trace.txt \n
+  Running L2 C=512 A=32 with trace 464.h264ref-30B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 555
+0.0555
+L2:
+Resultados de la simulación
+Total accesos: 555
+# Cantidad total de misses: 555
+100.0
+L3:
+Resultados de la simulación
+Total accesos: 555
+# Cantidad total de misses: 555
+100.0
+  Finished running L2 C=512 A=32 with trace 464.h264ref-30B.trace.txt \n
+  Running L2 C=512 A=32 with trace 481.wrf-1170B.trace.txt \n
+L1:
+Resultados de la simulación
+Total accesos: 1000000
+# Cantidad total de misses: 3834
+0.3834
+L2:
+Resultados de la simulación
+Total accesos: 3834
+# Cantidad total de misses: 2760
+71.98748043818466
+L3:
+Resultados de la simulación
+Total accesos: 2760
+# Cantidad total de misses: 2760
+100.0
+  Finished running L2 C=512 A=32 with trace 481.wrf-1170B.trace.txt \n
