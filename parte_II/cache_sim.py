@@ -1,7 +1,7 @@
 from optparse import OptionParser
 import gzip
 import sys
-from cache2 import *
+from cache import *
 
 parser = OptionParser()
 parser.add_option("--l1_s", dest="l1_s")
@@ -29,6 +29,7 @@ with gzip.open(path, 'rt') as trace_fh:
         address = int(hex_str_address, 16)
         is_l1_miss = l1_cache.access(access_type, address)
     
+        # Simulate multi-level cache.
         if not is_l1_miss:
             if l2_cache:
                 is_l2_miss = l2_cache.access(access_type, address)

@@ -55,8 +55,30 @@ class cache:
         print("Missrate: ")
         print(str(miss_rate))
         
-        
+    """
+    Accede a la cache para verificar si una dirección está presente y maneja los hits y misses.
 
+    Esta función simula el acceso a un caché multinivel para una dirección de memoria específica,
+    verificando si la dirección resulta en un hit o miss, y actualiza el estado del caché
+    de acuerdo con la política de reemplazo especificada.
+
+    Args:
+        access_type (str): Tipo de acceso; puede ser 'read' o 'write'.
+        address (int): Dirección de memoria que se está accediendo.
+
+    Returns:
+        Nothing.
+
+    Detalles:
+        - Se desplaza la dirección para remover los bits de offset.
+        - Calcula el índice del set y el tag basado en los bits restantes.
+        - Se incrementa la recencia de todos los elementos en el set.
+        - Verifica la presencia del tag en el caché:
+          - Si está presente, se actualiza la recencia a más reciente.
+          - Si no está, se selecciona un way basado en la política de reemplazo (LRU o aleatoria),
+            se actualizan los tags y la recencia.
+        - Contabiliza los accesos totales y los misses.
+    """
     def access(self, access_type, address):
         hit = False
         # quita bits de offset (no se necesita)
